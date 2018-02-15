@@ -1,0 +1,10 @@
+# ipaddress 192.168.0.1
+# rack 0
+# slot 3
+# readDB 20
+# startbyte 0
+# numberofbytes 16
+# writeDB 20
+# startbyte 16
+# numberofbytes 16
+./S7koppelvlak 192.168.0.1 0 3 20 0 16 20 16 16
